@@ -1,0 +1,26 @@
+.Resources ul{
+    display: flex;
+    flex-direction: row;
+    font-size: 1em;
+}
+.resource {
+   /* display: flex;*/
+    /*flex-direction: row;*/
+    font-size: 1em;
+    align-items: center;
+    text-align: center;
+}
+
+.follow {
+    font-size: 1em;
+    align-items: center;
+    text-align: center;
+
+}
+
+.legal {
+    font-size: 1em;
+    align-items: center;
+    text-align: center;
+
+}
